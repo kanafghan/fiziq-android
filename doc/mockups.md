@@ -30,14 +30,14 @@ The following mockup illustrates how the **Workout Selection** view can look.
 ## Log Workout
 The **Log Workout** view is used by the user to enter the *weight* and repetitions (*reps.*) for each set
 of the workout he/she has selected in the [Workout Selection](#workout-selection) view. Initially, this
-view must contain the possibilty for etering weight and reps for one set. There must be a button, 
+view must contain the possibilty for entering weight and reps for one set. There must be a button, 
 `Add Set`, that adds a set to the workout. If there exists a record for the workout that is being logged,
 the weights and reps of that record must be presented together with each new corresponding set.
 
-There must be also a `Next Workout` button that takens the user to the 
+There must also be a `Next Workout` button that takes the user to the 
 [Workout Selection](#workout-selection) view.
 
-There must be also a `Done!` button that finishes the whole workout session and takes the user to the
+There must also be a `Done!` button that finishes the whole workout session and takes the user to the
 [Home](#home) view.
 
 The **Log Workout** view must also display the time spent on the workout at hand and the whole workout
